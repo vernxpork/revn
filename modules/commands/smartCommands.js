@@ -1293,7 +1293,7 @@ function handleComprehensiveHelp(api, threadID, messageID, prefix) {
 
 📊 𝗧𝗼𝘁𝗮𝗹: ${uniqueCommands.length} available features`;
 
-    const comprehensiveMessage = design("👾 𝐑𝐄𝐕𝐍 - FEATURES GUIDE", helpContent);
+    const comprehensiveMessage = design("👾 HIS - FEATURES GUIDE", helpContent);
 
     const imagePath = './nashbot.png';
 
