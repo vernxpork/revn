@@ -1295,7 +1295,7 @@ function handleComprehensiveHelp(api, threadID, messageID, prefix) {
 
     const comprehensiveMessage = design("👾 HIS - FEATURES GUIDE", helpContent);
 
-    const imagePath = './nashbot.png';
+    const imagePath = './revn.png';
 
     if (fs.existsSync(imagePath)) {
         const attachment = fs.createReadStream(imagePath);
@@ -1308,7 +1308,7 @@ function handleComprehensiveHelp(api, threadID, messageID, prefix) {
 function handlePrefix(api, threadID, prefix) {
     const message = `My prefix is [ 𓆩 '${prefix}' 𓆪 ]\n\nBut guess what? You don't need it anymore! 🎉\nJust talk to me naturally and I'll understand! 💬`;
 
-    const imagePath = './josh.jpeg';
+    const imagePath = './revn.jpeg';
 
     if (fs.existsSync(imagePath)) {
         const attachment = fs.createReadStream(imagePath);
@@ -2001,7 +2001,7 @@ async function handleInstagram(api, event, body, threadID, messageID) {
           
             const videoStream = fs.createReadStream(videoPath);
 
-            const messageBody = `【 𝗡𝗔𝗦𝗛 】𝗜𝗚 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 📱
+            const messageBody = `【 𝐑𝐄𝐕𝐍 】𝗜𝗚 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 📱
 ──────────────────
 👤 𝗨𝘀𝗲𝗿: ${username || "Instagram User"}
 ${description ? `📝 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: ${description.substring(0, 100)}${description.length > 100 ? '...' : ''}` : ''}
