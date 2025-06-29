@@ -5,7 +5,7 @@ module.exports = {
   name: "joinNoti",
   version: "2.0.0",
   description: "Professional join notifications with aesthetic design",
-  author: "Cyydev && Joshua",
+  author: "Vern",
   async onEvent({ api, event, prefix }) {
     try {
       const { logMessageType, logMessageData, threadID } = event;
