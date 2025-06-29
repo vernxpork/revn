@@ -23,7 +23,7 @@ module.exports = {
 
         const leaveMessage = `
 ┌────────────────────────┐
-│ 👾 VERN IS OFFLINE     │
+│ 👾 𝐕𝐄𝐑𝐍 IS OFFLINE     │
 └────────────────────────┘
 
 💔 Connection Terminated
@@ -38,7 +38,7 @@ module.exports = {
 • Use ${prefix}help when back
 
 ─────────────────────────
-👋 Thanks for using NashBot!
+👋 Thanks for using 𝐑𝐄𝐕𝐍!
 ─────────────────────────`;
 
         api.sendMessage(leaveMessage, threadID);
@@ -57,7 +57,7 @@ module.exports = {
 
         const leaveMessage = `
 ┌────────────────────────┐
-│     👋 FAREWELL        │
+│     👋 𝐅𝐀𝐑𝐄𝐖𝐄𝐋𝐋        │
 └────────────────────────┘
 
 😔 ${leftUserName} left the group
@@ -78,7 +78,7 @@ The door is always open!"
 • ${leftUserName} welcome back anytime!
 
 ─────────────────────────
-🤝 Until we meet again!
+🤝 𝐔𝐧𝐭𝐢𝐥 𝐰𝐞 𝐦𝐞𝐭 𝐚𝐠𝐚𝐢𝐧!
 ─────────────────────────`;
 
         const gifUrl = "https://media3.giphy.com/media/vxNCVEe0PI9A3YVJEX/giphy.gif?cid=6c09b952ygxao9r8x79t3enqjb9z02khzf36dntnwqyhcqm2&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g";
