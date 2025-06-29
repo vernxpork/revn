@@ -271,9 +271,9 @@ const init = async () => {
   await loadModules("events");
   await relogin();
   console.log(chalk.bold.blueBright("──STARTING BOT──●"));
-  console.log(chalk.bold.red(`
- █▄░█ ▄▀█ █▀ █░█
- █░▀█ █▀█ ▄█ █▀█`));
+  console.log(chalk.bold.red(` 
+ █░█ █▀█ █▀█ █▄█
+ █▀█ █▄█ █▄█ ░█░`));
   console.log(chalk.bold.yellow("Credits: Joshua Apostol"));
 };
 
