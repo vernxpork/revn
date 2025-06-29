@@ -74,7 +74,7 @@ function design(title, content) {
         title,
         titleFont: "bold",
         contentFont: "none",
-        titlePattern: "【 𝐑𝐄𝐕𝐍 】{word} {emojis}",
+        titlePattern: "【 REVN 】{word} {emojis}",
         content,
     });
 }
