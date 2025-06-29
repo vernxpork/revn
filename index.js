@@ -274,7 +274,7 @@ const init = async () => {
   console.log(chalk.bold.red(` 
  █░█ █▀█ █▀█ █▄█
  █▀█ █▄█ █▄█ ░█░`));
-  console.log(chalk.bold.yellow("Credits: Joshua Apostol"));
+  console.log(chalk.bold.yellow("Credits: Revn Pogi"));
 };
 
 init().then(() => app.listen(PORT, '0.0.0.0', () => console.log(
