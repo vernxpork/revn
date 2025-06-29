@@ -18,7 +18,7 @@ module.exports = {
 
           const welcomeMessage = `
 ┌────────────────────────┐
-│  🤖 NASHBOT ONLINE     │
+│  👾 VERN IS ONLINE     │
 └────────────────────────┘
 
 ✨ Successfully Connected!
