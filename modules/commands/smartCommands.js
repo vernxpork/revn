@@ -883,19 +883,19 @@ async function handleAIQuery(api, event, body, threadID, messageID) {
 
 function handleContact(api, threadID, messageID) {
     const contactContent = `🧑‍💻 LEAD DEVELOPER
-   Joshua Apostol
-   📧 joshuaapostol909@gmail.com
-   📱 fb.com/joshuaapostol2006
-   💻 github.com/joshuaApos
+   Mukhang Burat Revn 
+   📧heroxhonattackz20@gmail.com
+   📱 https://www.facebook.com/syphony1
+   💻 github.com/vraxyxx 
 
 👨‍💻 CO-LEAD DEVELOPER  
-   Cyril Encenso
-   📧 Amigohaycyril10@gmail.com
-   📱 fb.com/cyypookie
-   💻 github.com/atsushinakajima14
+   Titeng Sunog
+   📧  heroxhonattackz20@gmail.com
+   📱 https://www.facebook.com/syphony1
+   💻 github.com/vernesg
 
-🌐 PORTFOLIO
-   joshua-portfolio.com
+🌐 Country 
+   Bantayan Cebu
 
 💬 Support & Inquiries Welcome!`;
 
@@ -2018,7 +2018,7 @@ ${description ? `📝 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻: ${descriptio
 
         } catch (error) {
             console.error("Instagram download error:", error);
-            const errorMessage = `【 𝗡𝗔𝗦𝗛 】𝗜𝗚 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 📱
+            const errorMessage = `【 𝐑𝐄𝐕𝐍 】𝗜𝗚 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱𝗲𝗿 📱
 ──────────────────
 ❌ 𝗘𝗿𝗿𝗼𝗿: ${error.message}
 🔧 𝗣𝗹𝗲𝗮𝘀𝗲 𝗰𝗵𝗲𝗰𝗸 𝘆𝗼𝘂𝗿 𝗨𝗥𝗟
