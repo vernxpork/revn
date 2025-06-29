@@ -1,7 +1,7 @@
 {
   "name": "workspace",
   "version": "1.0.0",
-  "description": "<div align=\"center\">   <img src=\"https://i.imgur.com/2Co5ddF.jpeg\" alt=\"Profile Image\" width=\"120\" height=\"120\" style=\"border-radius: 50%;\"> </div> <div align=\"center\">   <p><strong>Joshua Apostol</strong></p> </div>",
+  "description": "<div align=\"center\">   <img src=\"https://i.imgur.com/2Co5ddF.jpeg\" alt=\"Profile Image\" width=\"120\" height=\"120\" style=\"border-radius: 50%;\"> </div> <div align=\"center\">   <p><strong>Revn Chao</strong></p> </div>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
