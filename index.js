@@ -23,7 +23,7 @@ global.NashBoT = {
 };
 
 global.NashBot = {
-  JOSHUA: "https://kaiz-apis.gleeze.com/"
+  REVN: "https://kaiz-apis.gleeze.com/"
 };
 
 let isLoggedIn = false;
