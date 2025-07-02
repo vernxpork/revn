@@ -871,7 +871,8 @@ async function handleAIQuery(api, event, body, threadID, messageID) {
         if (err) return;
 
         try {
-            const url = `${global.NashBot.JOSHUA}api/gpt4o-latest?ask=${encodeURIComponent(prompt)}&uid=1&imageUrl=&apikey=609efa09-3ed5-4132-8d03-d6f8ca11b527`;
+            const url = `${global.NashBot.JOSHUA}api/gpt-4o-pro?ask=${encodeURIComponent(prompt)}&uid=1&imageUrl=${encodeURIComponent(imageUrl)}&apikey=c956f6c9-46e1-41ba-967b-1895d3e34159
+`;
             const response = await axios.get(url);
             const reply = response.data.response;
             api.editMessage(reply, info.messageID);
