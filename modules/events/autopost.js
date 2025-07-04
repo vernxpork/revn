@@ -7,7 +7,7 @@ let isPosting = false;
 
 module.exports = {
     name: "autopost",
-    description: "Automatically posts a random dog image every 35 minutes.",
+    description: "Automatically posts a random dog image every 20 minutes.",
     nashPrefix: false,
     version: "1.0.0",
     role: "admin",
